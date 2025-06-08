@@ -1,1 +1,2 @@
 i am first line.
+i am another line in file2.txt
